@@ -1,8 +1,9 @@
-# React + Vite
+Frontend Tast-Todo Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project provides a comprehensive setup to get started with a user authentication system and task management functionality. The frontend application interacts seamlessly with a backend server and a database to provide a smooth user experience.
 
-Currently, two official plugins are available:
+Currently, the following features are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+User Registration: Users can create an account, with their data securely stored in the database.
+User Login: Users can authenticate using JWT tokens, which ensures secure session management.
+Dashboard: Once logged in, users can create, view, edit, and delete tasks on their personalized dashboard.
