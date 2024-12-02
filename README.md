@@ -32,4 +32,4 @@ Before you begin, ensure that the following software is installed on your machin
 **Clone the repository:**
    First, clone the repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/SanjeevVE/Task-Todo.git
